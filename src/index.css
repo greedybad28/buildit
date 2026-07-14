@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-zinc-950 text-zinc-100 antialiased selection:bg-indigo-500 selection:text-white;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+}
+
+/* Custom styles for developer-tool aesthetics */
+.glass-panel {
+  @apply bg-zinc-900/60 border border-zinc-800/80 backdrop-blur-md;
+}
+
+.card-hover {
+  @apply transition-all duration-300 hover:border-zinc-700/80 hover:bg-zinc-900/80 hover:shadow-lg hover:shadow-zinc-950/20;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-zinc-950;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-zinc-800 rounded-full hover:bg-zinc-700;
+}

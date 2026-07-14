@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "username": "urbanfart",
+      "name": "urbanfart",
+      "password": "$2b$10$ElzpMjRgdH7Y7X2GVwdBD.BPxI1O2CN/dgwDi3uJaHmxf02PDf5IC",
+      "role": "mentor",
+      "status": "approved",
+      "id": "b4242c45-a795-4c18-bdec-046e538d7e9b",
+      "joinedAt": "2026-07-14T16:12:02.907Z"
+    },
+    {
+      "username": "remo",
+      "name": "remo",
+      "password": "$2b$10$myA3k4IrY5dHY37UceJukuqJY5eapTITB3qEst.XRKxhtGQQ167e2",
+      "role": "member",
+      "status": "approved",
+      "id": "84f3d204-74ba-4c35-8f14-2d127d6c255a",
+      "joinedAt": "2026-07-14T16:17:12.043Z"
+    }
+  ],
+  "projects": [
+    {
+      "title": "TODO LIST ",
+      "description": "# Sprint 01: To-Do List\n\n**Duration:** 4 Days\n\nWelcome to the first sprint!\n\nThe goal of this sprint is simple: **Build a To-Do List using HTML, CSS, and JavaScript.**\n\nThis is your chance to get comfortable building something from start to finish. Don't stress about writing perfect code or making the prettiest UI. The objective is to learn, experiment, and complete your first project.\n\n## Requirements\n\nYour To-Do List should be able to:\n\n* Add new tasks\n* Display all tasks\n* Mark tasks as completed\n* Delete tasks\n* Save tasks even after refreshing the page (Local Storage)\n\n## Design\n\nThe design is completely up to you. Customize it however you like.\n\nYou can experiment with:\n\n* Different colors\n* Fonts\n* Icons\n* Animations\n* Layouts\n\nMake it yours.\n\n## AI Usage\n\nUsing AI tools like ChatGPT, Gemini, Claude, GitHub Copilot, etc. is completely allowed.\n\nBut here's the catch: **understand what you're using.**\n\nIf someone asks you how your code works, you should be able to explain it. If you don't understand a piece of code, ask during the help session or look it up. Learning is the goal, not copy-pasting.\n\n## Bonus Ideas\n\nFinished early?\n\nTry adding:\n\n* Dark Mode\n* Edit Tasks\n* Search Tasks\n* Task Categories\n* Due Dates\n* Task Counter\n* Filters (All / Completed / Pending)\n* Press Enter to add a task\n* Smooth animations\n\n## Help Session\n\nA help session will be held during the sprint where you can ask questions, debug problems, or get guidance if you're stuck.\n\n## Submission\n\nAt the end of Day 4, submit your project files or your GitHub repository.\n\n## Wind-Up Session\n\nWe'll end the sprint by looking at different solutions, discussing interesting approaches, clearing up confusing concepts, and talking about what everyone learned. No one's code has to be perfect. The goal is that everyone leaves understanding a little more than they did four days ago.\n\nGood luck, and have fun building!\n",
+      "objectives": [],
+      "resources": [],
+      "difficultyTier": "beginner",
+      "deadline": "2026-07-18",
+      "status": "open",
+      "createdBy": "b4242c45-a795-4c18-bdec-046e538d7e9b",
+      "id": "edbd1596-091f-43cb-8541-a82f52255cdd",
+      "createdAt": "2026-07-14T16:16:52.363Z"
+    }
+  ],
+  "submissions": [
+    {
+      "projectId": "edbd1596-091f-43cb-8541-a82f52255cdd",
+      "userId": "84f3d204-74ba-4c35-8f14-2d127d6c255a",
+      "submissionLink": "http://localhost:5173",
+      "status": "pending",
+      "feedback": "",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "id": "3cbf7a3c-6ce6-4712-8907-7e09573658a4",
+      "submittedAt": "2026-07-14T16:53:33.012Z"
+    }
+  ]
+}
